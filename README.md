@@ -1,4 +1,23 @@
-### Hi there 👋
+### 
+
+
+https://user-images.githubusercontent.com/100967087/210173005-d2bf57ce-3984-4cfc-a6a8-1a05ab0b1b49.mp4
+
+orioon
+
+┌──(root@root)-[~/]
+└─$ cat orion.py
+
+class orion:
+
+def  __social__(self):
+ self.gtb = "https://github.com/orioonn"
+ self.dsc = "orion#9204"
+ 
+  
+ ┌──(root@root)-[~/]
+ └─$
+
 
 <!--
 **orioonn/orioonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
