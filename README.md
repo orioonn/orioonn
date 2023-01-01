@@ -3,8 +3,9 @@
 <a href="https://discord.com/users/948580558202634310"><img src="https://discord.c99.nl/widget/theme-4/948580558202634310.png" width=40%></a>
  </p>
  
-https://lanyard-profile-readme.vercel.app/api/948580558202634310
 
 
+
+![948580558202634310](https://user-images.githubusercontent.com/100967087/210174635-334c85fb-0f4b-4ebc-b6f0-b2689385c92e.jpg)
 
 
