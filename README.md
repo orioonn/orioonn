@@ -3,6 +3,6 @@
 
 
 
-<p align="center"><img src="https://count.getloli.com/get/@:orioonn" alt=":Orion" /></p>
+<p align="center"><img src="https://count.getloli.com/get/@:Orioonn" alt=":Orion" /></p>
 
 
